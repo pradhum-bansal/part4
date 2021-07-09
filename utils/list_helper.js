@@ -26,6 +26,14 @@ const dummy = (blogs) => {
       })
       return favouriteAuthor
   }
+
+  // const mostBlogs = (blogs) => {
+
+  //   let dict = {}
+  //   blogs.forEach(element=> {
+        
+  //   })
+  // }
   
   module.exports = {
     dummy, totalLikes,favouriteBlog
